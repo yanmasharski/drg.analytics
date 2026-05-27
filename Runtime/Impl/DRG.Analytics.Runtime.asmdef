@@ -1,0 +1,17 @@
+{
+    "name": "DRG.Analytics.Runtime",
+    "rootNamespace": "DRG.Analytics",
+    "references": [
+        "DRG.Analytics",
+        "DRG.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

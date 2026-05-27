@@ -1,0 +1,15 @@
+{
+    "name": "com.drg.analytics",
+    "version": "0.9.0",
+    "displayName": "DRG Analytics",
+    "description": "Analytics abstraction: event tracking gateway contract. No Unity Engine references in the core assembly.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Jan Mašarski",
+        "email": "yanmasharski@gmail.com",
+        "url": "https://yanmasharski.github.io"
+    },
+    "dependencies": {
+        "com.drg.core": "https://github.com/yanmasharski/drg.core.git#1.0.0"
+    }
+}
